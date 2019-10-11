@@ -4,7 +4,7 @@
 vowels = 'aeiou'
 
 # change this value for a different result
-'Hello, have you tried our turorial section yet?'
+ip_str='Hello, have you tried our turorial section yet?'
 
 # uncomment to take input from the user
 #ip_str = input("Enter a string: ")
